@@ -5,7 +5,7 @@ import NavBar from "./AppComponents/NavBar.js";
 //import "bootstrap/dist/css/bootstrap.min.css";
 import "weather-icons/css/weather-icons.css";
 
-const API_KEY = "d5f204cc86172304dfd2756aee242438";
+const API_KEY = "your api key";
 //api.openweathermap.org/data/2.5/weather?q=London,uk
 
 class App extends React.Component {
