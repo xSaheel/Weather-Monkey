@@ -2,10 +2,10 @@ import React from "react";
 import Weather from "./AppComponents/Weather.js";
 import Form from "./AppComponents/Form.js";
 import NavBar from "./AppComponents/NavBar.js";
-//import "bootstrap/dist/css/bootstrap.min.css";
 import "weather-icons/css/weather-icons.css";
 
-const API_KEY = "your api key";
+const dotenv = require("dotenv").config();
+const API_KEY = process.env.REACT_APP_WEATHER_API_KEY;
 //api.openweathermap.org/data/2.5/weather?q=London,uk
 
 class App extends React.Component {
