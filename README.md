@@ -1,2 +1,7 @@
+# WEB APP PREVIEW
 
-![](/preview-1-homepage.png)
+### HOMEPAGE
+![](preview-1-homepage.PNG)
+
+### RANDOM SEARCH PAGE
+![](preview-2-bgChange.PNG)
