@@ -8,4 +8,4 @@
 
 ![](preview-3-bgChange2.PNG)
 
-Notice the Backgorund and weather icon change according the weather of the location entered.
+Notice the Background and weather icon change according the weather of the location entered.
